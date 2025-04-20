@@ -20,7 +20,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name="amber"
+let g:colors_name="vim-amber"
 
 let s:everything = [
       \ "ColorColumn",
